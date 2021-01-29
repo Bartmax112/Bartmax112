@@ -1,13 +1,19 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning
-- 👯 I’m looking to collaborate on
-<details>
-<summary>Statistics</summary>
-    <p>
-        <ing src="https://github-readme-stats.vercel.app/api?username=Bartmax112&show_icons=true"/>
-    </p>
-</details>
+
+<ul>
+    <li>I’m currently learning Spring Framework</li>
+    <li>I’m currently working on microservices project</li>
+</ul>
+
+<summary>Some statistics..</summary>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Bartmax112&show_icons=true"/>
+</p>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=6&show_icons=true"/>
+</p>
+
 
 
 
@@ -21,7 +27,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-
+I’m looking to collaborate on
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
