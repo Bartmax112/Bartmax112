@@ -1,17 +1,21 @@
 ### Hi there 👋
 
+About me:
 
+I'm on the third year of my IT studies, and I'm looking for place to do my internship.
 <ul>
-    <li>I’m currently learning Spring Framework</li>
-    <li>I’m currently working on microservices project</li>
+    <li>👨‍🎓 I’m looking for internship for my engineer degree</li>
+    <li>🌱   I’m currently learning Spring Framework </li>
+    <li>🧱   I’m currently working on microservices  </li>
+    <li>📫   How to reach me - bartmax112@gmail.com </li>
 </ul>
 
-<summary>Some statistics..</summary>
+<summary>Some of my statistics..</summary>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Bartmax112&show_icons=true"/>
 </p>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=6&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bartmax112&layout=compact" />
 </p>
 
 
