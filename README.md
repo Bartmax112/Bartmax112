@@ -2,7 +2,7 @@
 
 About me:
 
-I'm on the third year of my IT studies, and I'm looking for place to do my internship.
+I'm on the third year of my IT studies, and I'm looking for company where I can do my internship.
 <ul>
     <li>👨‍🎓 I’m looking for internship for my engineer degree</li>
     <li>🌱   I’m currently learning Spring Framework </li>
