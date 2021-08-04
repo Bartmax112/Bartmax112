@@ -4,9 +4,9 @@ About me:
 
 I'm on the third year of my IT studies, and I'm looking for company where I can do my internship.
 <ul>
-    <li>👨‍🎓 I’m looking for internship for my engineer degree</li>
+    <li>👨‍🎓   I’m on my last semester</li>
     <li>🌱   I’m currently learning Spring Framework </li>
-    <li>🧱   I’m currently working on microservices  </li>
+    <li>🧱   I’m currently working in Dataart  </li>
     <li>📫   How to reach me - bartmax112@gmail.com </li>
 </ul>
 
