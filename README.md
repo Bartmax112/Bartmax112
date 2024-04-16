@@ -3,7 +3,7 @@
 About me:
 
 <ul>
-    <li>👨‍🎓   I've almost finished my Master's degree</li>
+    <li>👨‍🎓   I've Master's degree</li>
     <li>🧱   I’m currently working in Dataart  </li>
     <li>📫   How to reach me - bartmax112@gmail.com </li>
 </ul>
